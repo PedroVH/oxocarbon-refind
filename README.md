@@ -28,9 +28,11 @@ Themes for [ReFind](https://www.rodsbooks.com/refind/) following the [Oxocarbon]
 <summary>Pink - Purple</summary>
 <img src="assets/previews/dark-pink-purple.png"/>
 </details>
+<details>
 <summary>Purple - Blue</summary>
 <img src="assets/previews/dark-purple-blue.png"/>
 </details>
+<details>
 <summary>Purple - Pink</summary>
 <img src="assets/previews/dark-purple-pink.png"/>
 </details>
